@@ -2,7 +2,7 @@
 ## dependencies
 botox
 autotune
-## runing 
+## running 
 sh rando.sh <trials> <experiments>
 ```
 
