@@ -1,11 +1,12 @@
-#rando
+# rando
 ## dependencies
-botox
+botox 
 autotune
 ## running 
-sh rando.sh <trials> <experiments>
+sh rando.sh *number-of-trials* *number-of-experiments*
+```
+sh rando.sh 100 6
 ```
 
-sh rando.sh 100 6
 
 
